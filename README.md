@@ -13,7 +13,7 @@ Welcome to the **Quote Generator** project! This application provides inspiratio
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/comelex/Quote-Generator-.git
+   git clone https://github.com/comelex/Quote-Generator.git
 Navigate to the project directory:
 
 
