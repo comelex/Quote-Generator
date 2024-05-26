@@ -17,17 +17,17 @@ Welcome to the **Quote Generator** project! This application provides inspiratio
 Navigate to the project directory:
 
 
-Copy code
+
 cd quote-generator
 Install dependencies:
 
 
-Copy code
+
 npm install
 Start the application:
 
 
-Copy code
+
 npm start
 
 📋 Usage
@@ -35,7 +35,7 @@ npm start
 Open the app in your web browser:
 
 
-Copy code
+
 http://localhost:3000
 Explore: Browse through random quotes or filter by categories.
 
@@ -53,17 +53,18 @@ Contributions are welcome! Please follow these steps:
 Fork the repository
 Create a new branch:
 
-Copy code
+
 git checkout -b feature/your-feature-name
 
 Make your changes
 Commit your changes:
 
-Copy code
+
+
 git commit -m 'Add some feature'
 Push to the branch:
 
-Copy code
+
 git push origin feature/your-feature-name
 Open a pull request
 
